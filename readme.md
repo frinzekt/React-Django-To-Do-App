@@ -12,3 +12,9 @@ This is created as a software demo for Frontend and Backend integration as part 
 
 - at `localhost:8000`, you will see the frontend
 - at `localhost:8000/api`, you will see the interactive Django Rest Framework stuff
+
+## Most Important Files
+
+- `frontend/App.js` contains the frontend (View) + the integration logic (ViewModel)
+- `api/models.py` contains the database logic (Model)
+- `urls.py` and `views.py` contains endpoint routing logic and views (ViewModel)
